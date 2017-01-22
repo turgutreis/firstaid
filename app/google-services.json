@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "95763508309",
+    "firebase_url": "https://fistaidprojekt.firebaseio.com",
+    "project_id": "fistaidprojekt",
+    "storage_bucket": "fistaidprojekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95763508309:android:db7803e5b514c6ce",
+        "android_client_info": {
+          "package_name": "com.example.turgutre1s.firstaidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95763508309-dhcmf18m9pbafba525gil4ebgpto7upc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVvvkN0_xjIb3waN0jZnXXyiLc4A-CBk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
